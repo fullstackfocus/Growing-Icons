@@ -56,6 +56,10 @@ transition:all 0.5s ease;
 
 //Navbar
 
+nav {
+background-color: #A1292D;
+}
+
 #navbar {
   overflow: hidden;
   background-color: #A1292D;
